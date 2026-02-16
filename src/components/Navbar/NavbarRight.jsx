@@ -20,7 +20,7 @@ const NavbarRight = () => {
             </li>
             <Link to={"/products"} className='flex flex-col items-center justify-center gap-0.5 cursor-pointer'>
                 <img src={product} alt="" />
-                <div className='text-gray-500'>Orders</div>
+                <div className='text-gray-500'>Products</div>
             </Link>
             <Link to={'/cart'} className='flex flex-col items-center justify-center gap-0.5 cursor-pointer'>
                 <img src={cart} alt="" />

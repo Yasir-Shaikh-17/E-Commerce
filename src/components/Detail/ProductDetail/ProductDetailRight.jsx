@@ -1,7 +1,7 @@
 import germany from '../../../assets/Images/Home/8_Flags/germany.png'
 import verified from '../../../assets/icons/verified.svg'
 import worldwide from '../../../assets/icons/worldwide.svg'
-import heart from '../../../assets/icons/heartlist.svg'
+import heart from '../../../assets//icons/heart.svg'
 
 const ProductDetailRight = () => {
   return (

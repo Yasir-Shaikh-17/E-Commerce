@@ -4,7 +4,6 @@ import ProductDetailLeft from './ProductDetailLeft'
 import ProductDetailRight from './ProductDetailRight'
 import ProductDetailCenter from './ProductDetailCenter'
 import DescriptionLeft from './DescriptionLeft'
-import DescriptionRight from './DescriptionRight'
 import Related from './Related'
 import Banner from './Banner'
 

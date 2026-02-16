@@ -5,7 +5,7 @@ import rating3 from '../assets/icons/Ratings/rating-3.svg'
 import rating4 from '../assets/icons/Ratings/rating-4.svg'
 import rating5 from '../assets/icons/Ratings/rating-5.svg'
 import noProducts from '../assets/Images/noProducts.png'
-import banner from "../assets/Images/View/banner.svg";
+import banner from "../assets/Images/View/Banner.svg";
 import american from '../assets/icons/cards/american_express.svg'
 import visa from '../assets/icons/cards/visa.svg'
 import apple from '../assets/icons/cards/apple.svg'
